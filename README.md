@@ -10,7 +10,7 @@ Phase I: 2024.07.01 ~ 2024.07.26 [Study]
 Phase II: 2024.08.01 ~ 2024.08.30 [Hackaton]
 
 ### Team
-DAPs (Data Analysis Peoples)
+DAPs (Data Analysis Peoples) Leader (4 members total)
 
 ### Result
 최종 75위 / 740팀 (0.211401점)
